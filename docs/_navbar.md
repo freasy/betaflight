@@ -1,3 +1,4 @@
 * [Home](/)
-* Receiver
-  * [Rx](./rx/Rx.md)
+* [Receiver](rx/Rx.md)
+* Misc
+  * [Boards](misc/boards/index.md)
